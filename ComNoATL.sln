@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CompTest", "ComNoATL\ComNoATL.vcxproj", "{FFD3C8F4-83ED-4CC1-BAFC-07A92348F80C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CtrlTest", "CtrlTest\CtrlTest.vcxproj", "{9AF39D29-AFEA-4D6A-BA50-E7877A4829F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFD3C8F4-83ED-4CC1-BAFC-07A92348F80C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FFD3C8F4-83ED-4CC1-BAFC-07A92348F80C}.Debug|Win32.Build.0 = Debug|Win32
+		{FFD3C8F4-83ED-4CC1-BAFC-07A92348F80C}.Release|Win32.ActiveCfg = Release|Win32
+		{FFD3C8F4-83ED-4CC1-BAFC-07A92348F80C}.Release|Win32.Build.0 = Release|Win32
+		{9AF39D29-AFEA-4D6A-BA50-E7877A4829F8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9AF39D29-AFEA-4D6A-BA50-E7877A4829F8}.Debug|Win32.Build.0 = Debug|Win32
+		{9AF39D29-AFEA-4D6A-BA50-E7877A4829F8}.Release|Win32.ActiveCfg = Release|Win32
+		{9AF39D29-AFEA-4D6A-BA50-E7877A4829F8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

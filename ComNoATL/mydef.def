@@ -1,0 +1,6 @@
+LIBRARY "CompTest"
+EXPORTS
+DllCanUnloadNow		PRIVATE
+DllGetClassObject	PRIVATE
+DllUnregisterServer	PRIVATE
+DllRegisterServer	PRIVATE
